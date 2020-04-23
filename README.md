@@ -1,9 +1,9 @@
-# AppDescription
+# Dev Application Description
 
 An exercise to explain the given full-stack application. Task was
 to reverse engineer the starter code provided and create a tutorial for the code.
 
-[Description of Code](https://docs.google.com/document/d/1957nJZ1UsC3whNt7C5138b3GPwETF8ZI-zGv1ZNrt7I/edit?usp=sharing)
+[Google Doc link to Description of Code](https://docs.google.com/document/d/1957nJZ1UsC3whNt7C5138b3GPwETF8ZI-zGv1ZNrt7I/edit?usp=sharing)
 
 ![Sign Up Page](./public/assets/signup.png)
 
@@ -25,6 +25,6 @@ When joining a new team, I will be expected to inspect a lot of code that I have
 
 ```md
 GIVEN a Node.js application using Sequelize and Passport
-WHEN I follow the walkthrough
-THEN I understand the codebase
+WHEN one follows the walkthrough
+THEN one will understand the codebase
 ```
